@@ -1,0 +1,1 @@
+# l-tsz-lagos-oszt-lyok
