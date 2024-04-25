@@ -1,0 +1,16 @@
+li:first-child{
+     background-color: green;
+}
+
+li:last-child{
+    background-color: blue;
+}
+
+li:nth-child(2){
+    background-color: red;
+}
+
+#minden4.elem
+li:nth-child(4n){
+    background-color: yellow;
+}
